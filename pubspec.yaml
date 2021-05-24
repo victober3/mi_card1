@@ -49,9 +49,24 @@ flutter:
   - family: Pacifico
     fonts:
     - asset: font/pacifico-Regular.ttf
+
   - family: Source Sans Pro
     fonts:
     - asset: font/SourceSansPro-Regular.ttf
+
+  - family: Dancing Script
+    fonts:
+    - asset: font/ DancingScript-Regular.ttf
+
+
+
+
+
+
+
+
+
+
 
   #- family: Source Sans Pro
    # fonts:

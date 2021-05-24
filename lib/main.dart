@@ -94,6 +94,25 @@ class MyApp extends StatelessWidget {
                 ),
               ),
 
+               Text(
+                'Please contact us',
+                  style: TextStyle(
+                    fontFamily: 'Pacifico',
+                    fontSize: 20.0,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+              ),
+               ),
+              Text(
+                  'THANK YOU',
+                style: TextStyle(
+                fontFamily: 'Source Sans Pro',
+                fontSize: 20.0,
+                fontWeight: FontWeight.bold,
+                color: Colors.white,
+              ),
+              )
+
 
 
 
